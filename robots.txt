@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.stachurski.com.pl/sitemap.xml
